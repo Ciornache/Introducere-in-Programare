@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1698251086 source:f:\algoritmica\probleme\adn\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<cstring>
+	<cmath>
+

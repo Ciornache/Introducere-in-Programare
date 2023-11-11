@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699123800 source:f:\algoritmica\probleme\arbori binari\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+
