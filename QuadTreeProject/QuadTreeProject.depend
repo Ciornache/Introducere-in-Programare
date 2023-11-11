@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1699738183 source:f:\algoritmica\probleme\quadtreeproject\main.cpp
+	<iostream>
+	<graphics.h>
+	<map>
+	<queue>
+	<F:/Algoritmica/Probleme/QuadTreeProject/stb-master/stb_image.h>
+	<F:/Algoritmica/Probleme/QuadTreeProject/stb-master/stb_image_write.h>
+
